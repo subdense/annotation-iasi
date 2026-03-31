@@ -1,10 +1,10 @@
 {
-  "url": "https://github.com/umrlastig/annotation-example.git",
-  "base": "/annotator/",
+  "url": "https://github.com/subdense/annotation-iasi-datasets.git",
+  "base": "/annotation-iasi/",
   "dir": "/datasets",
   "fsname": "annotator-data",
   "useIsomorphicProxy": "true",
   "corsProxyIsomorphic": "https://cors.isomorphic-git.org",
   "corsProxyDefault": "https://gitcorsproxy.vercel.app/api/cors",
-  "annotationSetup": {"example/samples.json":[["change","no change"]]}
+  "annotationSetup": {"iasi/samples.json":[["no change","construction","destruction","reconstruction","geometry issue","NA"]]}
 }

@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/umrlastig/annotation-example.git",
+  "base": "/annotator/",
+  "dir": "/datasets",
+  "fsname": "annotator-data",
+  "useIsomorphicProxy": "true",
+  "corsProxyIsomorphic": "https://cors.isomorphic-git.org",
+  "corsProxyDefault": "https://gitcorsproxy.vercel.app/api/cors",
+  "annotationSetup": {"example/samples.json":[["change","no change"]]}
+}
